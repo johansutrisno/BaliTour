@@ -1,0 +1,30 @@
+.link{
+	padding: 15px;
+	max-width: 1366px;
+	font-family: Montserrat;
+	color: #3a4b60;
+	font-size: 13px;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 200px 0 rgba(0, 0, 0, 0.19);
+}
+.link a{
+	text-decoration: none;
+	color: #3a4b60;
+}
+
+.link a:hover {
+	text-decoration: underline;
+}
+h1{
+	text-align: center;
+	color: #3a4b60;
+}
+h3{
+	color: #3a4b60;
+}
+
+p{
+	font-family: Pt Sans;
+	font-size: 17px;
+	color: #3a4b60;
+	text-align: justify;
+}
